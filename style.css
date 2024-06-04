@@ -1,0 +1,5 @@
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(/src/assets/pictures/carambar_bleu.png) 30 round;
+}
